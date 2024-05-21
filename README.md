@@ -6,5 +6,10 @@ Sample App for Decentro Fabric's SDK for Flutter.
 
 - Install dependencies mentioned in pubspec.yaml
 - Navigate to `lib/src/app.dart` and populate `uistreamUrl` with a generated UIStream session url.
+  ```
+  ln 76.  return const UIStreamWebView(
+            uistreamUrl: <uistream generated link>,
+          );
+  ```
 
 Generate UIStream Session link as [documented here](https://docs.decentro.tech/docs/kyc-and-onboarding-workflows-uistreams).
