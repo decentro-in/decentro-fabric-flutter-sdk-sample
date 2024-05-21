@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
     // Whenever the user updates their settings, the MaterialApp is rebuilt.
 
     /// UIStream session URL
-    const uistreamUrl = "";
+    const uistreamUrl = "<Your generated UIStream URL>";
 
     return ListenableBuilder(
       listenable: settingsController,

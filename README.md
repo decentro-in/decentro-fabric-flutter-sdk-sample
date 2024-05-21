@@ -2,6 +2,8 @@
 
 Sample App for Decentro Fabric's SDK for Flutter.
 
+### Check out the sdk repo [here](https://github.com/decentro-in/decentro-fabric-flutter-sdk).
+
 ## Getting Started
 
 - Install dependencies mentioned in pubspec.yaml
