@@ -11,5 +11,6 @@ Sample App for Decentro Fabric's SDK for Flutter.
             uistreamUrl: <uistream generated link>,
           );
   ```
+- In the app, list items will navigate to UIStream
 
 Generate UIStream Session link as [documented here](https://docs.decentro.tech/docs/kyc-and-onboarding-workflows-uistreams).
